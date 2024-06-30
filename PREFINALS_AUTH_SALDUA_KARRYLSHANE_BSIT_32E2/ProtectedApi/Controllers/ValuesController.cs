@@ -20,7 +20,7 @@ namespace ProtectedApi.Controllers
             var funFacts = new List<string>
             {
                 "This Creator is a tiktoker.",
-                "My name is Karryl Shane S. Saldua",
+                "Henlo, my name is Karryl Shane S. Saldua",
                 "I really love to dance and listen to music.",
                 "I am an ambivert hehe",
                 "My Favorite hobby is biking, swimming, and watching movies.",
